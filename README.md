@@ -1,5 +1,5 @@
 # DDIM (Dinus Digital Innovation Marketplace)
-**Prototype Demo**
+Prototype Demo (Front End)
 
 ## About DDIM
 
